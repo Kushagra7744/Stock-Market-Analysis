@@ -1,5 +1,7 @@
 # Stock-Market-Analysis
 
+### To view the bokeh plots use this link(colab notebook): https://colab.research.google.com/drive/1lh-5oHsLSxKk4QX4HnGYwlKouXHqqnWL
+
 Dataset selection:
 Use: https://github.com/swapniljariwala/nsepy
 Source OCLHV data for NSE stocks (INFY,TCS) between 2015-2016. Data level - Daily.
